@@ -41,47 +41,44 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 
 <details>
     <summary>
-      DataFrame Operations 
+      Pandas Basics of Manipulation of Data
     </summary>
 
 *  [**Towards Data Science Dataframe basics and manipulation  of data **](https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039)
 
-
   </details>
+  
 <details>
     <summary>
-      DataFrame Operations 
+      How to Use LOC method
     </summary>
 
 *  [**Sharp Sight How to use Pandas LOC to Subset Python**](https://www.sharpsightlabs.com/blog/pandas-loc/)
 
-
   </details>
 <details>
     <summary>
-      DataFrame Operations 
+      Resource Pandas Exercises to practice
     </summary>
 
 *  [**W3 Resource Pandas Exercises to practice **](https://www.w3resource.com/python-exercises/pandas/index.php)
 
-
   </details>
-
-​     
 
 <details>
     <summary>
-      DataFrame Operations 
+      Pycon Pandas Tutorial Exercises by Brandon Rhodes  
     </summary>
 
 *  [**Pycon Pandas Tutorial Exercises by Brandon Rhodes **](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
-
 
   </details>
 
 
 
 &nbsp;
+
+
 
 
 
