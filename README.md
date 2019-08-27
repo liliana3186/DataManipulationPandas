@@ -73,4 +73,8 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 *  [**Pycon Pandas Tutorial Exercises by Brandon Rhodes**](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 
  </details>
+&nbsp;
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liliana3186/DataManipulationPandas.git/master) 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataManipulationPandas/blob/master/Data%20Manipulation%20with%20Pandas.ipynb)
