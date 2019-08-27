@@ -10,9 +10,9 @@ Pandas is one of those package that makes importing and analyzing data much easi
 
 Pandas contains data structures and data manipulation tools designed to make data cleaning and analysis fast and easy in Python. Pandas adopts many coding idioms from  NumPy, by contrast, is best suited for working with homogeneous numerical array data.
 
-Pandas is very powerful library that has  a lot of functionality. You don't have to know it all. You can learn the basics and always refer to the documentation.
+Pandas is very powerful library that has a great functionality. You don't have to know it all. You can learn the basics and always refer to the documentation.
 &nbsp;
-&nbsp;
+
 
 
 ## Pandas Topics Reviewed:
@@ -46,7 +46,7 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 
 *  [**Towards Data Science Dataframe basics and manipulation  of data **](https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039)
 
-  </details>
+ </details>
   
 <details>
     <summary>
@@ -55,7 +55,7 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 
 *  [**Sharp Sight How to use Pandas LOC to Subset Python**](https://www.sharpsightlabs.com/blog/pandas-loc/)
 
-  </details>
+ </details>
 <details>
     <summary>
       Resource Pandas Exercises to practice
@@ -63,23 +63,14 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 
 *  [**W3 Resource Pandas Exercises to practice **](https://www.w3resource.com/python-exercises/pandas/index.php)
 
-  </details>
+ </details>
 
 <details>
     <summary>
       Pycon Pandas Tutorial Exercises by Brandon Rhodes  
     </summary>
-
+    
 *  [**Pycon Pandas Tutorial Exercises by Brandon Rhodes **](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 
-  </details>
-
-
-
-&nbsp;
-
-
-
-
-
+ </details>
 
