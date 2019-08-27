@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-@EXPLICIT
 https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda
 https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2019.5.15-1.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/icc_rt-2019.0.0-h0cc432a_1.conda
