@@ -23,10 +23,10 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
 
 <details>
     <summary>
-      Pandas General Python References
+      Pandas General References
     </summary>
 
- *  [**Pandas PyData Reference **](https://pandas.pydata.org/pandas-docs/stable/)
+ *  [**Pandas PyData Reference**](https://pandas.pydata.org/pandas-docs/stable/)
 
 </details>
 
@@ -44,7 +44,7 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
       Pandas Basics of Manipulation of Data
     </summary>
 
-*  [**Towards Data Science Dataframe basics and manipulation  of data **](https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039)
+*  [**Towards Data Science Dataframe basics and manipulation  of data**](https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039)
 
  </details>
   
@@ -61,7 +61,7 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
       Resource Pandas Exercises to practice
     </summary>
 
-*  [**W3 Resource Pandas Exercises to practice **](https://www.w3resource.com/python-exercises/pandas/index.php)
+*  [**W3 Resource Pandas Exercises to practice**](https://www.w3resource.com/python-exercises/pandas/index.php)
 
  </details>
 
@@ -70,7 +70,7 @@ _Here's some docs & posts to refer to as we go through the lesson (click the arr
       Pycon Pandas Tutorial Exercises by Brandon Rhodes  
     </summary>
     
-*  [**Pycon Pandas Tutorial Exercises by Brandon Rhodes **](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+*  [**Pycon Pandas Tutorial Exercises by Brandon Rhodes**](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 
  </details>
 
